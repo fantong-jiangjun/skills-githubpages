@@ -1,0 +1,16 @@
+# 基础配置
+title: "我的酷炫网站"  # 网站标题
+author: "你的名字"     # 作者名
+description: "这是我的个人小站"  # 网站描述
+
+# 使用minima主题
+theme: minima
+
+# 扩展配置（可选）
+plugins:
+  - jekyll-feed  # 启用RSS订阅
+
+# 社交链接（需主题支持）
+social:
+  github: 你的GitHub用户名
+  twitter: 你的Twitter账号
